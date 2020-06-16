@@ -1,0 +1,25 @@
+nav {
+    padding-left: 0;
+  }
+  .navbar-custom {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .nav {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  
+  .container .lead {
+    font-family: "Balsamiq Sans", cursive;
+    color:blue;
+    background: rgba(0, 0, 0, 0.5);
+    display: inline;
+    font-size: 30px;
+  }
+  .container-custom .display-4 {
+    font-size: 40px;
+  }
